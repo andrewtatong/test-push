@@ -2,7 +2,7 @@ body {
     margin: 0%;
     padding: 0%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(io.jpg);
+    background-image:  url(l.jpg);
     background-size: cover;
     background-position: center;  
 }
